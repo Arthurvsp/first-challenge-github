@@ -1,0 +1,23 @@
+INTRODUÇÃO AO GIT E GIHUB
+Software não é feito se não for colaborativo. 
+Git – software de monitoramento de código, ele ajuda em diferentes versões do mesmo código. 
+Versionamento de código.
+GitHub – Guardar essas versões feitas pelo Git. Ou pelas IDEs. 
+	Repositório online.
+COMANDO BÁSICOS PARA UM BOM FUNCIONAMENTO NO TERMINAL:
+Win: dir, cd, mkdir, del / rmdir
+dir – lista todas as pastas (diretórios)
+cd- cd windows (pasta específica: Windows ) – passa para a pasta que está descrita no comando
+cd . . – para voltar para onde estava
+cls- para limpar a tela de navegação ou comandos
+mkdir – comando para criação de pastas 
+del “nome da pasta” – para deletar arquivos dentro de um diretório
+rmdir + /S /Q – para deletar um diretório completo
+
+Unix: ls, cd, mkdir, rm -rf 
+ls – lista de diretórios
+cd- cd /  (pasta específica: / ) – passa para a pasta que está descrita no comando
+cd . . – para voltar para onde estava 
+clear- para limpar a tela de navegação ou comandos ou ctrl + L
+mkdir – comando para criação de pastas (antes tem que pedir permissão usando o comando “sudo su”)
+rm -rf – para deletar um diretório completo
